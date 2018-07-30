@@ -12,5 +12,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World! \n\n Healthereum Application strives to provide a single point of reference for all your aggregated health data. \n\n Connect the application to Healthereum to use the benefits of it" />
+        android:text="Hello World! \n\n Healthereum Application strives to provide a single point of reference for all your aggregated health data. \n Connect the application to Healthereum to use the benefits of it. \n\n HAVE A GREAT DAY!" />
 </RelativeLayout>
